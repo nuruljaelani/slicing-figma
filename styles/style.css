@@ -1,0 +1,27 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.slide {
+  position: relative;
+}
+
+.slick-list {
+  max-height: 380px;
+}
+
+.slick-slide {
+  margin-left: 1.5rem;
+  position: relative;
+}
+
+.slick-dots {
+  width: 5px;
+}
+
+.bg-image {
+  background-image: url("../public/assets/Rectangle\ 54.png");
+  background-repeat: no-repeat;
+}
