@@ -15,7 +15,7 @@ const Footer = () => {
           </div>
           <p className="text-gray-500">
             A Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard.
+            industry. Lorem Ipsum has been the industry&apos;s standard.
           </p>
           <div className="flex gap-2 w-fit">
             <div className="w-fit">

@@ -16,7 +16,7 @@ const Hero = () => {
           </p>
           <p className="text-gray-500 text-sm md:text-base">
             A Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's
+            industry. Lorem Ipsum has been the industry&apos;s
           </p>
           <div className="flex h-16 gap-6">
             <Image src={googlePlay} alt="Google Playstore logo" />

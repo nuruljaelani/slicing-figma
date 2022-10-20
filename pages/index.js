@@ -49,7 +49,7 @@ export default function Home() {
               </p>
               <p className="text-white text-sm md:text-base text-justify tracking-tighter lg:tracking-normal">
                 A Lorem Ipsum is simply dummy text of the printing and
-                typesetting industry. Lorem Ipsum has been the industry's
+                typesetting industry. Lorem Ipsum has been the industry&apos;s
               </p>
               <div className="flex justify-between w-full gap-4 md:gap-6 lg:gap-8">
                 <input
@@ -99,7 +99,7 @@ export default function Home() {
             </p>
             <p className="text-center text-gray-500">
               A Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
+              industry. Lorem Ipsum has been the industry&apos;s standard dummy text
               ever since the 1500s.
             </p>
           </div>
@@ -145,7 +145,7 @@ export default function Home() {
             </p>
             <p className="text-gray-500">
               A Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard.
+              industry. Lorem Ipsum has been the industry&apos;s standard.
             </p>
           </div>
           <div className="right-0 absolute hidden md:flex justify-center items-center">
@@ -180,7 +180,7 @@ export default function Home() {
             </p>
             <p className="text-gray-500">
               A Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
+              industry. Lorem Ipsum has been the industry&apos;s standard dummy text
               ever since the 1500s, when an unknown. A Lorem Ipsum is simply
               dummy text of the printing and typesetting industry.
             </p>
@@ -195,7 +195,7 @@ export default function Home() {
             </p>
             <p className="text-gray-500">
               A Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard.
+              industry. Lorem Ipsum has been the industry&apos;s standard.
             </p>
           </div>
           <div className="right-0 absolute hidden md:flex justify-center items-center top-8 lg:top-0">
@@ -216,7 +216,7 @@ export default function Home() {
             </p>
             <p className="text-gray-500 text-center">
               A Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text{" "}
+              industry. Lorem Ipsum has been the industry&apos;s standard dummy text{" "}
             </p>
           </div>
           <div className="flex flex-col px-4 lg:px-0">
